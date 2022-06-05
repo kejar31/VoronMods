@@ -23,3 +23,4 @@ The side which used to use two extreamly small self taping screws would break of
 
 Also added is inserted nuts on the BLTouch atachment itself as trying to hold nuts while installing screws on this thing was nearly imposible for my fat finger espesially in the tight spot that this thing gets mounted
 ![BLTouch](IMG_2766.jpeg)
+![BLTouch installed](IMG_2768.jpeg)
