@@ -3,7 +3,9 @@
 
 This is a StealthBurner Mount along with BLToucch for an Ender 3 with an MGN12 on the X
 
-This A remix of RepresentativeBlink mount for the Afterburner on a Ender 3 with an MGN12 rail, for StealthBurner
+This is a remix of RepresentativeBlink mount for the Afterburner on a Ender 3 with an MGN12 rail
+
+https://www.thingiverse.com/thing:4697157
 
 Also changed from RepresentativeBlink design is the following
 
