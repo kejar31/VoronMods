@@ -4,7 +4,7 @@
 ![blingbling1](xxx.jpeg)![blingbling2](xxx.jpeg)
 
 
-This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4 and Trident (should work forSwitchwire as well)
+This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4 and Trident (should work for Switchwire as well)
 
 Note: This is a Beta and has not been tested with it being wired up etc just yet (AKA and work in progress) Things are subject to change
 
