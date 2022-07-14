@@ -1,28 +1,50 @@
 
-## Ender 3 + MGN12 + Stealthburner
+## CB-C2 (Can Bus for Clockwork 2)
 
-This is a StealthBurner Mount along with BLToucch for an Ender 3 with an MGN12 on the X
+![blingbling1](xxx.jpeg)![blingbling2](xxx.jpeg)
 
-This is a remix of RepresentativeBlink mount for the Afterburner on a Ender 3 with an MGN12 rail
 
-https://www.thingiverse.com/thing:4697157
+This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4 and Trident (should work forSwitchwire as well)
 
-Also changed from RepresentativeBlink design is the following
+Note: This is a Beta and has not been tested with it being wired up etc just yet (AKA and work in progress) Things are subject to change
 
-Added tie wrap holders to the top for cables
+!!!Coming soon: Klipper confif
 
-Removed nuts that hold the two sections together and replaced them with heated inserts (needed the space for proper mounting of bltouch)
+BOM:
+	1 X EBB36 (https://deepfriedhero.in/products/ebb36)
+	1 X M12 Cable Gland (https://deepfriedhero.in/products/m12-nylon-cable-gland)
+	1 X Sunon 2010 5v fan to be used on the bltouch probe pin ()
+		Note: this is the same fan that comes with the Revo micro
+	6 X M3 Threaded Insert (5x4)
+	1 X M3x25 SHCS
+	1 X M3x16 SHCS
+	1 X M3x12 SHCS
+	4 X M3x6 SHCS
+	
 
-Reworked the bltouch mount (side now uses heated inserts to hold bltouch mount, bltouch mount also uses heated inserts to the bltouch to the mount)
+Install instructions (wiring not included)
 
-![installed](IMG_2770.jpeg)
+Note:
+	It is important to make sure all of your threaded inserts are strait or you will have issues
 
-Notice: The Heated inserts for ClockWork 2 or on the rear of the mount
-![rear](IMG_2763.jpeg)
+1. Add a threaded insert to each side of the spacer
+2. Add the two threaded inserts to the Cable Gland Mount (See pic below)
+3. Attach  the spacer to the Cable Gland Mount using a M3x2 SHCS screw. This must be done before the next step.. Also be sure to check your orientation, the indented side goes toward the motor and away from the cable gland. (see pic below) 
+4. Attach the Cable Gland Mount to CW2 Cable chain mounts using 2 X M3x6 SHCS screws, anything longer will not allow the Cable Gland to be threaded in. (see pic below)
+5. Remove the bottom nut from the M12 Cable Gland and put it aside, as it will no longer be needed. 
+6. Insert the Cable Gland into the mount using the threads (see pic below)
+7. Add the two threaded inserts to the Mount where the Board on the standoffs
+8. Insert the 2010 Fan, this is press fitted only and is made purposely to be a very tight fit. Be sure to orientate the wire off the fan to the left back side.. (see the pic below)
+9. Install the Board to the Mount using 2 X M3x6 SHCS screws
+10. Install the Mount to the threaded insert at the bottom of the Cable Gland Mount using a M3x16 SHCS, don't over tighten and be sure the check that the mount opens about 90 degrees (see pic below)
+11. Insert a 1 X M3x25 SHCS in the rear of the mount to complete the install (see pic below) 
 
-The side which used to use two extreamly small self taping screws would break off on my so I changed it out with M3 heated insers for easier mounting
-![BLTouch mount](IMG_2765.jpeg)
 
-Also added is inserted nuts on the BLTouch atachment itself as trying to hold nuts while installing screws on this thing was nearly imposible for my fat finger espesially in the tight spot that this thing gets mounted
-![BLTouch](IMG_2766.jpeg)
-![BLTouch installed](IMG_2768.jpeg)
+![1](xxx.jpeg)
+![2](xxx.jpeg)
+![3](xxx.jpeg)
+![4](xxx.jpeg)
+![6](xxx.jpeg)
+![8](xxx.jpeg)
+![10](xxx.jpeg)
+
