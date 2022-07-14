@@ -13,7 +13,7 @@ Note: This is a Beta and has not been tested with it being wired up etc just yet
 Install instructions (wiring not included)
 
 
-#BOM:
+BOM:
 
 - 1 X EBB36 (https://deepfriedhero.in/products/ebb36)
 -  1 X M12 Cable Gland (https://deepfriedhero.in/products/m12-nylon-cable-gland)
@@ -25,7 +25,7 @@ Install instructions (wiring not included)
 - 1 X M3x12 SHCS
 - 4 X M3x6 SHCS
 
-#Install
+Install
 
 Note:
 	It is important to make sure all of your threaded inserts are strait or you will have issues
