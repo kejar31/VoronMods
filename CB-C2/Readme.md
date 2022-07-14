@@ -31,7 +31,7 @@ Note:
 
 1. Add a threaded insert to each side of the spacer
 2. Add the two threaded inserts to the Cable Gland Mount (see pic below)
-3. Attach  the spacer to the Cable Gland Mount using a M3x2 SHCS screw. This must be done before the next step.. Also be sure to check your orientation, the indented side goes toward the motor and away from the cable gland. (see pic below) 
+3. Attach  the spacer to the Cable Gland Mount using a M3x12 SHCS screw. This must be done before the next step.. Also be sure to check your orientation, the indented side goes toward the motor and away from the cable gland. (see pic below) 
 4. Attach the Cable Gland Mount to CW2 Cable chain mounts using 2 X M3x6 SHCS screws, anything longer will not allow the Cable Gland to be threaded in. (see pic below)
 5. Remove the bottom nut from the M12 Cable Gland and put it aside, as it will no longer be needed. 
 6. Insert the Cable Gland into the mount using the threads (see pic below)
