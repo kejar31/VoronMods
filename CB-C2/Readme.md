@@ -17,7 +17,7 @@ BOM:
 - 1 X EBB36 (https://deepfriedhero.in/products/ebb36)
 -  1 X M12 Cable Gland (https://deepfriedhero.in/products/m12-nylon-cable-gland)
 - 1 X Sunon 2010 5v fan to be used on the bltouch probe pin ()
-    Note: this is the same fan that comes with the Revo micro
+    -Note: this is the same fan that comes with the Revo micro
 - 6 X M3 Threaded Insert (5x4)
 - 1 X M3x25 SHCS
 - 1 X M3x16 SHCS
