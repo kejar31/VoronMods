@@ -53,7 +53,6 @@ Note:
 ![6](./photos/6.jpeg)
 ![8](./photos/8.jpeg)
 ![9](./photos/9.jpeg)
-
-![blingbling1](./photos/blingbling1.jpeg)![blingbling2](./photos/blingbling2.jpeg)
 ![10](./photos/10.jpeg)
 
+![blingbling1](./photos/blingbling1.jpeg)![blingbling2](./photos/blingbling2.jpeg)
