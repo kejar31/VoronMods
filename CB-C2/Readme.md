@@ -1,7 +1,7 @@
 
 ## CB-C2 (Can Bus for Clockwork 2)
 
-!cad1](./photos/cad1.jpeg)![cad2](./photos/cad2.jpeg)
+![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
 
 This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Trident and Switchwire
 
