@@ -3,9 +3,11 @@
 
 ![blingbling1](./photos/blingbling1.jpeg)![blingbling2](./photos/blingbling2.jpeg)
 
-This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4 and Trident (should work for Switchwire as well)
+This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Trident and Switchwire
 
 Note: This is a Beta and has not been tested with it being wired up etc just yet (AKA and work in progress) Things are subject to change
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=EN8E4MTBQRZ3J)
 
 !!!Coming soon: Klipper config
 
@@ -14,9 +16,11 @@ Install instructions (wiring not included)
 
 BOM:
 
+Kit avaialbe from DFH https://deepfriedhero.in/products/cb-c2-can-bus-for-clockwork-2-kit-by-kejar31?_pos=1&_psq=cb&_ss=e&_v=1.0
+
 - 1 X EBB36 (https://deepfriedhero.in/products/ebb36)
 -  1 X M12 Cable Gland (https://deepfriedhero.in/products/m12-nylon-cable-gland)
-- 1 X Sunon 2010 5v fan to be used on the bltouch probe pin (https://www.digikey.com/en/products/detail/sunon-fans/MF20100V1-1000U-A99/10441397)
+- 1 X Sunon 2010 5v fan to be used on the bltouch probe pin Can be purcheased from multiple vendoers but can also be had from the DFH kit.. 
     - Note: this is the same fan that comes with the Revo micro
 - 6 X M3 Threaded Insert (5x4)
 - 1 X M3x25 SHCS
