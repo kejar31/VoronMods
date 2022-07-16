@@ -10,6 +10,8 @@ This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Tri
 
 Note: This is a Beta and has not been tested all wired up just yet (AKA and work in progress) Things are subject to 
 
+
+NOTICE: getting reports that the molex connector on ebb36 v 1.1 is in a different location that v1 which is what this mount was designed with... I will look into resolving this, this weekend if I have time.
 ---------------------------------------------------------------------------------------
 
 
