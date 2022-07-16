@@ -12,6 +12,13 @@ Note: This is a Beta and has not been tested all wired up just yet (AKA and work
 
 ![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
 
+Change Log:
+	- Shaved 2mm off the back
+	- Shaved lower left edge due to convers with hiting bolts on a full movement of the x carage. 
+	- Simplified design by removing the spacer
+	- improved printability 
+	
+
 Install instructions (wiring not included)
 
 
@@ -34,25 +41,21 @@ Install
 Note:
 	It is important to make sure all of your threaded inserts are strait or you will have issues
 
-1. Add a threaded insert to each side of the spacer
-2. Add the two threaded inserts to the Cable Gland Mount (see pic below)
-3. Attach  the spacer to the Cable Gland Mount using a M3x12 SHCS screw. This must be done before the next step.. Also be sure to check your orientation, the indented side goes toward the motor and away from the cable gland. (see pic below) 
-4. Attach the Cable Gland Mount to CW2 Cable chain mounts using 2 X M3x6 SHCS screws, anything longer will not allow the Cable Gland to be threaded in. (see pic below)
-5. Remove the bottom nut from the M12 Cable Gland and put it aside, as it will no longer be needed. 
-6. Insert the Cable Gland into the mount using the threads (see pic below)
-7. Add the two threaded inserts to the Mount where the Board on the standoffs
-8. Insert the 2010 Fan, this is press fitted only and is made purposely to be a very tight fit. Be sure to orientate the wire off the fan to the left back side.. (see the pic below)
-9. Install the Board to the Mount using 2 X M3x6 SHCS screws (see pic below)
-10. Install the Mount to the threaded insert at the bottom of the Cable Gland Mount using a M3x16 SHCS, don't over tighten and be sure the check that the mount opens about 90 degrees (see pic below)
-11. Insert a 1 X M3x25 SHCS in the rear of the mount to complete the install
+1. Add three threaded inserts to the Cable Gland Mount
+2. Attach the Cable Gland Mount to CW2 Cable chain mounts using 2 X M3x6 SHCS screws, anything longer will not allow the Cable Gland to be threaded in. (see pic below)
+3. Remove the bottom nut from the M12 Cable Gland and put it aside, as it will no longer be needed. 
+4. Insert the Cable Gland into the mount using the threads (see pic below)
+5. Add the two threaded inserts to the Mount where the Board on the standoffs
+6. Insert the 2010 Fan, this is press fitted only and is made purposely to be a very tight fit. Be sure to orientate the wire off the fan to the left back side.. (see the pic below)
+7. Install the Board to the Mount using 2 X M3x6 SHCS screws (see pic below)
+8. Install the Mount to the threaded insert at the bottom of the Cable Gland Mount using a M3x16 SHCS, don't over tighten and be sure the check that the mount opens about 90 degrees (see pic below)
+9. Insert a 1 X M3x25 SHCS in the rear of the mount to complete the install
 
 
-![2](./photos/2.jpeg)
-![3](./photos/3.jpeg)
-![4](./photos/4.jpeg)
-![6](./photos/6.jpeg)
-![8](./photos/8.jpeg)
-![9](./photos/9.jpeg)
-![10](./photos/10.jpeg)
+![2](./photos/4.jpeg)
+![4](./photos/6.jpeg)
+![6](./photos/8.jpeg)
+![7](./photos/9.jpeg)
+![8](./photos/10.jpeg)
 
 ![blingbling1](./photos/blingbling1.jpeg)![blingbling2](./photos/blingbling2.jpeg)
