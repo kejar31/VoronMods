@@ -4,15 +4,14 @@
 
 This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Trident and Switchwire
 
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=EN8E4MTBQRZ3J)
+
 ---------------------------------------------------------------------------------------
 
 Note: This is a Beta and has not been tested all wired up just yet (AKA and work in progress) Things are subject to 
 
 ---------------------------------------------------------------------------------------
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=EN8E4MTBQRZ3J)
-
----------------------------------------------------------------------------------------
 
 !!!Coming soon: Klipper config
 
