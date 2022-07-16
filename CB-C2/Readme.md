@@ -12,11 +12,11 @@ Note: This is a Beta and has not been tested all wired up just yet (AKA and work
 
 ![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
 
-Change Log:
-	- Shaved 2mm off the back
-	- Shaved lower left edge due to convers with hiting bolts on a full movement of the x carage. 
-	- Simplified design by removing the spacer
-	- improved printability 
+Change Log
+- Shaved 2mm off the back
+- Shaved lower left edge due to convers with hiting bolts on a full movement of the x carage. 
+- Simplified design by removing the spacer
+- improved printability 
 	
 
 Install instructions (wiring not included)
