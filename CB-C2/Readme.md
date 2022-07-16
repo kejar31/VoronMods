@@ -12,7 +12,9 @@ Note: This is a Beta and has not been tested all wired up just yet (AKA and work
 
 ![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
 
-Change Log
+---------------------------------------------------------------------------------------
+
+Change Log:
 
 Beta 2 - 7/16/22
 - Shaved 2mm off the back
@@ -20,6 +22,7 @@ Beta 2 - 7/16/22
 - Simplified design by removing the spacer
 - improved printability 
 	
+---------------------------------------------------------------------------------------
 
 Install instructions (wiring not included)
 
@@ -38,7 +41,9 @@ Kit avaialbe from DFH https://deepfriedhero.in/products/cb-c2-can-bus-for-clockw
 - 1 X M3x12 SHCS
 - 4 X M3x6 SHCS
 
-Install
+---------------------------------------------------------------------------------------
+
+Install:
 
 Note:
 	It is important to make sure all of your threaded inserts are strait or you will have issues
