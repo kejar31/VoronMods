@@ -12,6 +12,8 @@ Note: This is a Beta and has not been tested all wired up just yet (AKA and work
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=EN8E4MTBQRZ3J)
 
+---------------------------------------------------------------------------------------
+
 !!!Coming soon: Klipper config
 
 ![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
