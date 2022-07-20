@@ -40,20 +40,6 @@ Change log:
 - Back is now only 0.019mm deeper than the X extrusion
 - Mount is not complatible with version 1.1 boards
 
-Pics of updates and fixes for RC1
-
-Clearance of a full travel and depth from the back of the extursion (I think I could go deeper than this if I needed to)
-![2](./photos/2.jpg) 
-
-difficult cables should be good now
-![3](./photos/3.jpg) 
-
-Fan position should be much better now
-![4](./photos/4.jpg) 
-
-Better picvot on the mount / door to allow for more clearance on openting 
-![5](./photos/5.jpg) 
-
 
 
 Beta 2 - 7/16/22
@@ -85,5 +71,25 @@ Kit avaialbe from DFH https://deepfriedhero.in/products/cb-c2-can-bus-for-clockw
 Install: (wireing nore software configureation are included)
 
 install instrutions for RC1 comeing soon
+
+
+
+Pics of updates and fixes for RC1
+
+Clearance of a full travel and depth from the back of the extursion (I think I could go deeper than this if I needed to)
+
+![2](./photos/2.jpg) 
+
+difficult cables should be good now
+
+![3](./photos/3.jpg) 
+
+Fan position should be much better now
+
+![4](./photos/4.jpg) 
+
+Better picvot on the mount / door to allow for more clearance on openting 
+
+![5](./photos/5.jpg) 
 
 
