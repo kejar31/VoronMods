@@ -1,7 +1,6 @@
 
 ## CB-C2 (Can Bus for Clockwork 2)
 
-
 This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Trident and Switchwire
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=EN8E4MTBQRZ3J)
@@ -10,18 +9,52 @@ This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Tri
 
 Note: This is a Beta and has not been tested all wired up just yet (AKA and work in progress) Things are subject to 
 
+![1](./photos/1.jpg) 
+---------------------------------------------------------------------------------------
 
-NOTICE: I am getting reports that the molex connector on ebb36 v 1.1 is in a different location that v1 which is what this mount was designed with... I will look into resolving this, this weekend if I have time.
+Features 
+- Rear mounted with an opening door for easy access to the wirings
+- Active cooling
+- Protection against the Z chain on X movements
+- Umbilical 
+- No need to make any changes to the latest beta of CW2 or StealthBurner this is a bolt on solution. 
+
 ---------------------------------------------------------------------------------------
 
 
 !!!Coming soon: Klipper config
 
-![cad1](./photos/cad1.jpg)![cad2](./photos/cad2.jpg)
-
 ---------------------------------------------------------------------------------------
 
-Change Log:
+
+RC1: 
+
+Change log:
+- Complete redraw
+- Rotated the board in the door (this was needed to allow DuPont connectors to have clearance)
+- Validates Cable clearance for Dupont connectors and heaters 
+- Moved the fan for better airflow over the whole board
+- improved printability 
+- Pivot of hinge is improved for more clearance
+- validated a full travel on the X without hitting the mount
+- Back is now only 0.019mm deeper than the X extrusion
+- Mount is not complatible with version 1.1 boards
+
+Pics of updates and fixes for RC1
+
+Clearance of a full travel and depth from the back of the extursion (I think I could go deeper than this if I needed to)
+![2](./photos/2.jpg) 
+
+difficult cables should be good now
+![3](./photos/3.jpg) 
+
+Fan position should be much better now
+![4](./photos/4.jpg) 
+
+Better picvot on the mount / door to allow for more clearance on openting 
+![5](./photos/5.jpg) 
+
+
 
 Beta 2 - 7/16/22
 - Shaved 2mm off the back
@@ -29,9 +62,9 @@ Beta 2 - 7/16/22
 - Simplified design by removing the spacer
 - improved printability 
 	
----------------------------------------------------------------------------------------
+	
 
-Install instructions (wiring not included)
+---------------------------------------------------------------------------------------
 
 
 BOM:
@@ -49,26 +82,8 @@ Kit avaialbe from DFH https://deepfriedhero.in/products/cb-c2-can-bus-for-clockw
 
 ---------------------------------------------------------------------------------------
 
-Install:
+Install: (wireing nore software configureation are included)
 
-Note:
-	It is important to make sure all of your threaded inserts are strait or you will have issues
-
-1. Add three threaded inserts to the Cable Gland Mount
-2. Attach the Cable Gland Mount to CW2 Cable chain mounts using 2 X M3x6 SHCS screws, anything longer will not allow the Cable Gland to be threaded in. (see pic below)
-3. Remove the bottom nut from the M12 Cable Gland and put it aside, as it will no longer be needed. 
-4. Insert the Cable Gland into the mount using the threads (see pic below)
-5. Add the two threaded inserts to the Mount where the Board on the standoffs
-6. Insert the 2010 Fan, this is press fitted only and is made purposely to be a very tight fit. Be sure to orientate the wire off the fan to the left back side.. (see the pic below)
-7. Install the Board to the Mount using 2 X M3x6 SHCS screws (see pic below)
-8. Install the Mount to the threaded insert at the bottom of the Cable Gland Mount using a M3x16 SHCS, don't over tighten and be sure the check that the mount opens about 90 degrees (see pic below)
-9. Insert a 1 X M3x25 SHCS in the rear of the mount to complete the install
+install instrutions for RC1 comeing soon
 
 
-![2](./photos/4.jpeg)
-![4](./photos/6.jpeg)
-![6](./photos/8.jpeg)
-![7](./photos/9.jpeg)
-![8](./photos/10.jpeg)
-
-![blingbling1](./photos/blingbling1.jpeg)![blingbling2](./photos/blingbling2.jpeg)
