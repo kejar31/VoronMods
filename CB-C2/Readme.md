@@ -34,7 +34,7 @@ RC1:
 Change log:
 - Complete redraw
 - Rotated the board in the door (this was needed to allow DuPont connectors to have clearance)
-- Validates Cable clearance for Dupont connectors and heaters 
+- Validated Cable clearance for Dupont connectors and heaters 
 - Moved the fan for better airflow over the whole board
 - improved printability 
 - Pivot of hinge is improved for more clearance
