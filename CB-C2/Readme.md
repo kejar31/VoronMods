@@ -26,6 +26,8 @@ Features
 
 ---------------------------------------------------------------------------------------
 
+RC1.1:
+ - Added a bit more space for the fan (it was too tight lol)
 
 RC1: 
 
