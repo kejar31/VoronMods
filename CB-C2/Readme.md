@@ -40,7 +40,7 @@ Change log:
 - Pivot of hinge is improved for more clearance
 - validated a full travel on the X without hitting the mount
 - Back is now only 0.019mm deeper than the X extrusion
-- Mount is not compatible with version 1.1 boards
+- Mount is now compatible with version 1.1 boards
 
 
 
