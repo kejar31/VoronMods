@@ -11,7 +11,7 @@ Note: This has not been tested all wired up just yet (AKA and work in progress) 
 
 ---------------------------------------------------------------------------------------
 
-Note2: Also all testing has been done on only the wire glands listed in the BOM below.. If you use anoother use it at your own risk of it not fitting
+Note2: Also all testing has been done on only the wire glands listed in the BOM below.. If you use another, use it at your own risk of it not fitting
 
 ![1](./photos/1RC2.jpg) 
 ---------------------------------------------------------------------------------------
