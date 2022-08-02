@@ -32,7 +32,7 @@ Features
 
 RC2:
 
-- reworked the locking screw solution on the Door but offering a modified cable door for CW2.
+- reworked the locking screw solution on the Door by offering a modified cable door for CW2.
 	- This should option up more room for cables
 	- This should fix issues with the right side not closing all the way
 	- improved look and integration with CW2 was achieved with this as well
