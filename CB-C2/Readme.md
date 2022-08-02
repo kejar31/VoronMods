@@ -8,7 +8,7 @@ This is a mount for CW2 with a cover to protect from the Z-Chain on the 2.4, Tri
 ---------------------------------------------------------------------------------------
 
 Note: This has not been tested all wired up just yet (AKA and work in progress) Things are subject to change until the offical release
-	- Also all testing has been done on only the wire glands listed in the BOM below.. If you use anoother use it at your own risk of it not fitting
+Note2: Also all testing has been done on only the wire glands listed in the BOM below.. If you use anoother use it at your own risk of it not fitting
 
 ![1](./photos/1RC2.jpg) 
 ---------------------------------------------------------------------------------------
