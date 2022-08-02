@@ -17,7 +17,6 @@ Features
 - Active cooling
 - Protection against the Z chain on X movements
 - Umbilical 
-- No need to make any changes to the latest beta of CW2 or StealthBurner this is a bolt on solution. 
 
 ---------------------------------------------------------------------------------------
 
@@ -25,6 +24,16 @@ Features
 !!!Coming soon: Klipper config
 
 ---------------------------------------------------------------------------------------
+
+RC2:
+
+- reworked the locking screw solution on the Door but offering a modified cable door for CW2.
+	- This should option up more room for cables
+	- This should fix issues with the right side not closing all the way
+	- improved look and integration with CW2 was achieved with this as well
+- Optional Sealing Nut for the cable gland is included
+	- This should help if you are less worried about the extra strain relief and more worried about Z height
+	- This should fix issues with the strain relief hitting the Top left bolt on the Switchwire
 
 RC1.1:
  - Added a bit more space for the fan (it was too tight lol)
@@ -75,23 +84,9 @@ Install: (wireing nore software configureation are included)
 install instrutions for RC1 comeing soon
 
 
-
-Pics of updates and fixes for RC1
-
-Clearance of a full travel and depth from the back of the extursion (I think I could go deeper than this if I needed to)
-
 ![2](./photos/2.jpg) 
-
-difficult cables should be good now
-
 ![3](./photos/3.jpg) 
-
-Fan position should be much better now
-
-![4](./photos/4.jpg) 
-
-Better picvot on the mount / door to allow for more clearance on openting 
-
-![5](./photos/5.jpg) 
-
+![4](./photos/4.jpeg) 
+![5](./photos/5.jpeg) 
+![6](./photos/6.jpeg) 
 
