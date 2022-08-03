@@ -30,6 +30,9 @@ Features
 
 ---------------------------------------------------------------------------------------
 
+RC2.1
+Fixed issue with soor hinge (minor overhange left behind)
+
 RC2:
 
 - reworked the locking screw solution on the Door by offering a modified cable door for CW2.
