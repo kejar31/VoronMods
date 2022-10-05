@@ -14,7 +14,7 @@ The goal here is to add a light bar to SwitchWire in a non-encloused build
 
 The changes include 
 
-1. Wire management is now handles by tie wraps with loops built into the frame 
+1. Wire management is now handled by tie wraps with loops built into the frame 
 2. Designed with  NeoPixel's in mind, both sides of the lightbar are open for including cables routes with larger wire openings around the extrusion (to account for 3 cable led harnesses)
 3. Stronger design.. The lightbar now press fits into the mounts with heated inserts to tighten them together fully.
 
