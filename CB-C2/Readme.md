@@ -7,7 +7,7 @@ This is a mount for CW2 and CW2 style mounts with a cover to protect from the Z-
 
 
 ---------------------------------------------------------------------------------------
-![1](./Photos/V21.jpeg) 
+![1](./Photos/v21.jpeg) 
 ---------------------------------------------------------------------------------------
 
 Note 1: All testing has been done on only the wire glands from DFH I can not guarentee they will work with other PG7 glands..
@@ -43,7 +43,7 @@ Here are some images to help you understand what this is
 
 ![2](./Photos/v22.jpg) 
 ![3](./Photos/v23.jpg) 
-![4](./Photos/v24.jpeg) 
-![5](./Photos/v25.jpeg) 
+![4](./Photos/v24.jpg) 
+![5](./Photos/v25.jpg) 
 
 
