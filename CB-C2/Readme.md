@@ -11,11 +11,11 @@ This is a mount for CW2 and CW2 style mounts with a cover to protect from the Z-
 
 ---------------------------------------------------------------------------------------
 
-Note 1: All testing has been done on only the wire glands from DFH I can not guarentee they will work with other PG7 glands..
+**Note 1:** All testing has been done on only the wire glands from DFH I can not guarentee they will work with other PG7 glands..
 
-Note 2: The LGX lite version of this was designed around Eytecz LGX Lite Stealthburner CW2 style mount which is awesome.. It is reconemded you check that out yourself
+**Note 2:** The LGX lite version of this was designed around Eytecz LGX Lite Stealthburner CW2 style mount which is awesome.. It is reconemded you check that out yourself
 
-Note 3: The rear umbilical mount is a modified version of Hartk1213.. the only change I had to make was addina slit to the side to allow the realease of cables. all --credit for that mounts design should go to him
+**Note 3:** The rear umbilical mount is a modified version of Hartk1213.. the only change I had to make was addina slit to the side to allow the realease of cables. all --credit for that mounts design should go to him
 
 ---------------------------------------------------------------------------------------
 
