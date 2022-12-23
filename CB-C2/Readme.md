@@ -20,7 +20,7 @@ This is a mount for CW2 and CW2 style mounts with a cover to protect from the Z-
 ---------------------------------------------------------------------------------------
 
 Features 
-- Rear door to help ensure you dont snad your cables on the Z chain or otherwise
+- Rear door to help ensure you dont snag your cables on the Z chain or otherwise
 - Active cooling
 - Umbilical system
 
