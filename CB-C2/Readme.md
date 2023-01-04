@@ -38,7 +38,8 @@ That BOM requires
 1x PG7 cable gland (from DFH he has them listed as M12 cable glands.
 2x M3x8 SHCS screwsd
 
-Kit avaialbe from DFH coming soon hopefully
+Kits for version 2 now available from DFH!
+https://dfh.fm/collections/can-bus-1/products/cb-c2-can-bus-for-clockwork-2-kit-by-kejar31
 
 ---------------------------------------------------------------------------------------
 
